@@ -1,0 +1,190 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPLMS DW Q&A Add-On v1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-11-07 10:25:02+0000\n"
+"Last-Translator: admin <vibethemes@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: wplms-dwqa.php:48
+#@ wplms-dwqa
+msgid "Questions"
+msgstr ""
+
+#: wplms-dwqa.php:67
+#: wplms-dwqa.php:115
+#@ wplms-dwqa
+msgid "Questions & Answers"
+msgstr ""
+
+#: wplms-dwqa.php:116
+#@ wplms-dwqa
+msgid "All Questions"
+msgstr ""
+
+#: wplms-dwqa.php:154
+#@ wplms-dwqa
+msgid "Ask Question"
+msgstr ""
+
+#: wplms-dwqa.php:177
+#@ wplms-dwqa
+msgid "DWQA Tag Slug"
+msgstr ""
+
+#: wplms-dwqa.php:178
+#@ wplms-dwqa
+msgid "Enter dwqa question tag slug for this course."
+msgstr ""
+
+#: wplms-dwqa.php:190
+#@ wplms-dwqa
+msgid "Select Question Tag"
+msgstr ""
+
+#: wplms-dwqa.php:225
+#@ wplms-dwqa
+msgid "Search"
+msgstr ""
+
+#: wplms-dwqa.php:242
+#: wplms-dwqa.php:447
+#@ wplms-dwqa
+msgid "Ask a question"
+msgstr ""
+
+#: wplms-dwqa.php:251
+#@ wplms-dwqa
+msgid "Status:"
+msgstr ""
+
+#: wplms-dwqa.php:253
+#: wplms-dwqa.php:294
+#@ wplms-dwqa
+msgid "All"
+msgstr ""
+
+#: wplms-dwqa.php:257
+#@ wplms-dwqa
+msgid "Need Answer"
+msgstr ""
+
+#: wplms-dwqa.php:257
+#@ wplms-dwqa
+msgid "Open"
+msgstr ""
+
+#: wplms-dwqa.php:260
+#@ wplms-dwqa
+msgid "Answered"
+msgstr ""
+
+#: wplms-dwqa.php:263
+#@ wplms-dwqa
+msgid "Resolved"
+msgstr ""
+
+#: wplms-dwqa.php:266
+#@ wplms-dwqa
+msgid "Closed"
+msgstr ""
+
+#: wplms-dwqa.php:269
+#@ wplms-dwqa
+msgid "Overdue"
+msgstr ""
+
+#: wplms-dwqa.php:270
+#@ wplms-dwqa
+msgid "Queue"
+msgstr ""
+
+#: wplms-dwqa.php:284
+#@ wplms-dwqa
+msgid "Select a category"
+msgstr ""
+
+#: wplms-dwqa.php:295
+#@ wplms-dwqa
+msgid "Empty"
+msgstr ""
+
+#: wplms-dwqa.php:321
+#@ dwqa
+msgid "View"
+msgstr ""
+
+#: wplms-dwqa.php:324
+#@ dwqa
+msgid "Answer"
+msgstr ""
+
+#: wplms-dwqa.php:327
+#@ dwqa
+msgid "Vote"
+msgstr ""
+
+#: wplms-dwqa.php:400
+#@ dwqa
+msgid "Prev"
+msgstr ""
+
+#: wplms-dwqa.php:436
+#@ dwqa
+msgid "Next"
+msgstr ""
+
+#: wplms-dwqa.php:454
+#@ wplms-dwqa
+msgid "You do not have permission to view questions"
+msgstr ""
+
+#: wplms-dwqa.php:457
+#@ dwqa
+msgid "Sorry, but nothing matched your filter."
+msgstr ""
+
+#: wplms-dwqa.php:465
+#@ wplms-dwqa
+msgid "You can ask question"
+msgstr ""
+
+#: wplms-dwqa.php:467
+#@ wplms-dwqa
+msgid "here"
+msgstr ""
+
+#: wplms-dwqa.php:473
+#@ wplms-dwqa
+msgid "Please"
+msgstr ""
+
+#: wplms-dwqa.php:475
+#@ wplms-dwqa
+msgid "Login"
+msgstr ""
+
+#: wplms-dwqa.php:480
+#@ wplms-dwqa
+msgid " or"
+msgstr ""
+
+#: wplms-dwqa.php:482
+#@ wplms-dwqa
+msgid " to submit question."
+msgstr ""
+
